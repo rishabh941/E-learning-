@@ -3,13 +3,9 @@ import { createSlice } from "@reduxjs/toolkit";
 const initialState = {
   signupData: null,
   loading: false,
-<<<<<<< HEAD
-  token: localStorage.getItem("token") ? JSON.parse(localStorage.getItem("token")) : null,
-};
-
-=======
   token: localStorage.getItem("token") || null, // Directly fetch the token
 };
+
 
 
 >>>>>>> 2bd8679 (first commit)
