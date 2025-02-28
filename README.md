@@ -1,6 +1,6 @@
-# Thinkly
+# Learnify
 
-Thinkly is a comprehensive educational platform designed to provide a seamless learning experience for students and educators. It facilitates learning, collaboration, and resource sharing through an intuitive and feature-rich interface.
+Learnify is a comprehensive educational platform designed to provide a seamless learning experience for students and educators. It facilitates learning, collaboration, and resource sharing through an intuitive and feature-rich interface.
 
 ## Technology Stack
 
